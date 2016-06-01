@@ -30,7 +30,7 @@ public class ReverseNumber {
 				s = s + y[i];
 			}
 		}
-
+		// printout result
 		System.out.println("Reverse number: " + s);
 	}
 
